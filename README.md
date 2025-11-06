@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy LeCheng Zhang
 
-<!--
-**LeChengZhang07/LeChengZhang07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de 1ºCFGS Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+💻 Apasionado por el desarrollo de software y la creación de proyectos funcionales y bien diseñados. Me gusta aprender tecnologías nuevas, mejorar mi código y desarrollar soluciones multiplataforma con propósito.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy un estudiante en formación con un gran interés en el **desarrollo multiplataforma** y en la construcción de aplicaciones que aporten valor real.  
+Busco siempre escribir **código limpio, estructurado y mantenible**, aplicando buenas prácticas y centrándome en la experiencia del usuario.
+
+Mi objetivo actual es seguir creciendo como desarrollador, combinando lo aprendido en clase con proyectos personales.
+
+---
+
+## 🧩 Proyecto destacado: **Novyxx**
+
+🛠️ **Novyxx** es mi primer proyecto personal y un punto de partida en mi camino como desarrollador.  
+Se trata de un proyecto en constante evolución, donde aplico lo que voy aprendiendo y experimento con nuevas ideas, interfaces y arquitecturas.  
+
+🔗 Puedes verlo aquí: [github.com/LeChengZhang07/Novyxx](https://github.com/LeChengZhang07/Novyxx)
+
+---
+
+## 🧠 Áreas de interés
+
+- Desarrollo **Android**, **desktop** y **web**  
+- Diseño y estructura de aplicaciones  
+- Programación orientada a objetos  
+- Interfaces intuitivas y experiencias de usuario (UI/UX)  
+- Optimización, organización y documentación de proyectos  
+
+---
+
+## 🛠️ Tecnologías que utilizo o estoy aprendiendo
+
+> 💬 *Siempre en proceso de mejora continua...*
+
+- **Lenguajes:** Java · Kotlin · Python · HTML · CSS · JavaScript  
+- **Entornos:** Android Studio · IntelliJ IDEA · Visual Studio Code  
+- **Control de versiones:** Git & GitHub  
+
+---
+
+## 🎯 Objetivos
+
+- Consolidar mis conocimientos en **desarrollo multiplataforma**  
+- Mejorar y ampliar **Novyxx** con nuevas funcionalidades  
+- Participar en proyectos colaborativos de código abierto  
+- Seguir aprendiendo, creando y compartiendo conocimiento  
+
+---
+
+## 📫 Contacto
+
+Si quieres colaborar, compartir ideas o ponerte en contacto conmigo:
+
+- ✉️ **Email:** [contact.lechengzhang@gmail.com](mailto:contact.lechengzhang@gmail.com)  
+- 🌐 **GitHub:** [github.com/LeChengZhang07](https://github.com/LeChengZhang07)
+
+---
+
+⭐ *Gracias por visitar mi perfil. Siempre buscando aprender algo nuevo y seguir mejorando cada día.* 🚀
