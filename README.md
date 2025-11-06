@@ -66,6 +66,6 @@ Si quieres colaborar, compartir ideas o ponerte en contacto conmigo:
 ---
 
 <p align="center">
-  ⭐ <i>Gracias por visitar mi perfil. Siempre buscando aprender algo nuevo y seguir mejorando cada día.</i> 🚀
+  ⭐ <i>Gracias por visitar mi perfil. Siempre buscando aprender algo nuevo y seguir mejorando cada día.</i> 🚀 <br>
       <i>"El mejor código es el que transforma ideas en experiencias reales."<i>
 </p>
