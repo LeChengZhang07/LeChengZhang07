@@ -26,7 +26,7 @@ Diseñado desde cero con **HTML5, CSS3 y JavaScript puro**, integra efectos visu
 
 ## 🧠 Áreas de interés  
 
-- Desarrollo **Android**, **desktop** y **web**  
+- Desarrollo **Desktop** y **web**  
 - Diseño y estructura de aplicaciones  
 - Inteligencia artificial aplicada a proyectos reales  
 - Programación orientada a objetos  
@@ -38,11 +38,10 @@ Diseñado desde cero con **HTML5, CSS3 y JavaScript puro**, integra efectos visu
 
 > 💬 *Siempre en proceso de mejora continua...*  
 
-- **Lenguajes:** Java · Kotlin · Python · HTML · CSS · JavaScript  
+- **Lenguajes:** Java · HTML · CSS · JavaScript  
 - **IA / Automatización:** IA aplicada, automatización inteligente
 - **Entornos:** IntelliJ IDEA · Visual Studio Code  
-- **Control de versiones:** Git & GitHub  
-- **Hosting / Infraestructura:** Netlify  
+- **Control de versiones:** GitHub  
 
 ---
 
