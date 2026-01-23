@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy LeCheng Zhang  
+# 👋 ¡Hola! Yo soy LeCheng Zhang  
 
 🎓 **Estudiante de 1ºCFGS Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💻 Apasionado por el desarrollo de software y la creación de proyectos funcionales, bien diseñados y con propósito.  
