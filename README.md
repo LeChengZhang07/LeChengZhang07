@@ -1,33 +1,69 @@
-<h1>Hi 👋, I'm LeCheng Zhang</h1>
-<p>Estudiante de 2ºCFGS DAM | Desarrollo de Aplicaciones Multiplataforma 💻 | Experimentado en IA | Apasionado por el software limpio y el aprendizaje constante 🚀</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/lechengzhang" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LeChengZhang07&show_icons=true&locale=en" alt="LeChengZhang07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeChengZhang07&" alt="LeChengZhang07" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeChengZhang07&show_icons=true&locale=en&layout=compact" alt="LeChengZhang07" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeChengZhang07" alt="LeChengZhang07" /></a></p>
+# 👋 ¡Hola! Soy LeCheng Zhang  
+
+🎓 **Estudiante de 1ºCFGS Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+💻 Apasionado por el desarrollo de software y la creación de proyectos funcionales, bien diseñados y con propósito.  
+Me gusta aprender tecnologías nuevas, mejorar mi código y desarrollar soluciones multiplataforma que aporten valor real.  
+
+---
+
+## 🚀 Sobre mí  
+
+Soy un estudiante en formación con un gran interés en el **desarrollo multiplataforma** y en la construcción de aplicaciones que realmente marquen la diferencia.  
+Busco siempre escribir **código limpio, estructurado y mantenible**, aplicando buenas prácticas y cuidando la experiencia del usuario.  
+
+Mi objetivo actual es seguir creciendo como desarrollador, combinando lo aprendido en clase con proyectos personales donde pueda experimentar con **inteligencia artificial**, diseño y arquitectura de software.  
+
+---
+
+## 🧩 Proyecto destacado: [Novyxx](https://github.com/LeChengZhang07/Novyxx)  
+
+🧠 **Novyxx** es mi agencia y proyecto principal, centrado en la **automatización con inteligencia artificial** y el desarrollo web moderno.  
+Es un proyecto en constante evolución, donde aplico lo que voy aprendiendo y experimento con nuevas ideas, interfaces y tecnologías.  
+
+Diseñado desde cero con **HTML5, CSS3 y JavaScript puro**, integra efectos visuales avanzados con **Three.js** y **GSAP**, priorizando el rendimiento, la accesibilidad y el cumplimiento legal.  
+
+---
+
+## 🧠 Áreas de interés  
+
+- Desarrollo **Desktop** y **web**  
+- Diseño y estructura de aplicaciones  
+- Inteligencia artificial aplicada a proyectos reales  
+- Programación orientada a objetos  
+- Optimización, organización y documentación de proyectos  
+
+---
+
+## 🛠️ Tecnologías que utilizo o estoy aprendiendo  
+
+> 💬 *Siempre en proceso de mejora continua...*  
+
+- **Lenguajes:** Java · HTML · CSS · JavaScript  
+- **IA / Automatización:** IA aplicada, automatización inteligente
+- **Entornos:** IntelliJ IDEA · Visual Studio Code  
+- **Control de versiones:** GitHub  
+
+---
+
+## 🎯 Objetivos  
+
+- Consolidar mis conocimientos en **desarrollo multiplataforma**  
+- Mejorar y ampliar **Novyxx** con nuevas funcionalidades y enfoque educativo  
+- Participar en proyectos colaborativos y de código abierto  
+- Seguir aprendiendo, creando y compartiendo conocimiento  
+
+---
+
+## 📫 Contacto  
+
+Si quieres colaborar, compartir ideas o ponerte en contacto conmigo:  
+
+- ✉️ **Email:** [contact.lechengzhang@gmail.com](mailto:contact.lechengzhang@gmail.com)  
+- 🌐 **GitHub:** [github.com/LeChengZhang07](https://github.com/LeChengZhang07)  
+
+---
+
+<p align="center">
+  ⭐ <i>"El mejor código es el que transforma ideas en experiencias reales."<i> 🚀
+      
+</p>
