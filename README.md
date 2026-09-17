@@ -5,15 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeChengZhang07/LeChengZhang07/output/github-metrics.svg" alt="Resumen del perfil" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/LeChengZhang07/LeChengZhang07/output/grid.svg" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://raw.githubusercontent.com/LeChengZhang07/LeChengZhang07/output/languages.svg" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/LeChengZhang07/LeChengZhang07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
